@@ -1,4 +1,4 @@
-LGTV = require("lgtv-serial")
+LGTV = require("lgtv-serial-complete")
 
 module.exports = function(RED) {
     function LGTVSerial(config) {
